@@ -1,5 +1,5 @@
 ## makeCacheMatrix initially creates an empty matrix, within the function are stored 4 sub functions that allow you
-## to you to set and retrieve a cached matrix, and set and retrieve a cached inverse of that matrix
+## to set and retrieve a cached matrix, and set and retrieve a cached inverse of that matrix
 ## If testing you must ensure the matrix can be inversed, meaning for this function the matrix must be square and 
 ## must not be sequential numbers. For example:
 ## myMatrix <- matrix(c(1,5,9,23,50,107,98,25,7), nrow = 3, ncol = 3)
